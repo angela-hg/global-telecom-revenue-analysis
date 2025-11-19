@@ -62,12 +62,43 @@ When building the report, I put special attention into:
 global-telecom-revenue-analysis/  
 ├─ data/ # Raw datasets  
 ├─ report/ # Power BI Report (pbix file)  
-├─ screenshots/ # Report image
+├─ screenshots/ # Report image  
 ├─ README.md  
 └─ LICENSE  
 
+---
+
+## 📥 How to Explore This Project
+
+1. Download or clone the repository.  
+2. Open the `.pbix` file in **Power BI Desktop**.  
+3. Keep the Excel file in the same folder structure so Power BI can locate and refresh the data.  
+4. Interact with slicers, visuals, and filters to explore insights.  
+
+---
+
+## 🖼️ Dashboard Preview
+
+![Dashboard Preview](https://raw.githubusercontent.com/angela-hg/global-telecom-revenue-analysis/main/screenshots/full_report.png)
 
 
+---
 
+## 📚 Background
+
+This dataset simulates real-world telecom revenue reporting and allows for hands-on BI development.  
+The dashboard, visual design, data modeling, and analytical insights were fully built by **Angela Herrera** using Power BI and Excel.
+
+---
+
+## 📬 Contact
+
+Feel free to reach out if you’d like to connect or talk about the project.
+
+**Angela Herrera**  
+📧 angelahg200@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/angela-hg  
+
+---
 
 
